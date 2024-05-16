@@ -2,6 +2,6 @@
   "name": "jack-rep-testnet-validator",
   "website": "",
   "description": "Testnet validator",
-  "logo": "logo.png",
+  "logo": "https://raw.githubusercontent.com/jack-rep/eigenlayer-metadata/main/logo.png",
   "twitter": ""
 }
