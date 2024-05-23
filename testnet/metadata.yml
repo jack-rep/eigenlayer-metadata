@@ -1,7 +1,7 @@
 {
-  "name": "republic-eig-testnet-validator",
-  "website": "",
-  "description": "Republic Testnet validator",
+  "name": "Republic Crypto Runtime",
+  "website": "https://republic.com/",
+  "description": "Republic Crypto Runtime provides infrastructure for institutional staking on networks like Avalanche, Aptos, Sui and Haqq with tailored services to meet your needs.",
   "logo": "https://raw.githubusercontent.com/republic-crypto/eigenlayer-metadata/main/testnet/logo.png",
-  "twitter": ""
+  "twitter": "https://twitter.com/joinrepublic"
 }
