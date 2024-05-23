@@ -4,6 +4,6 @@ Eigenlayer requires metadata.json and logo.png to be in public github repo and i
 
 logo.png must be less than 1 MB
 
-metadata.yml must comply with their rules:
+metadata.json must comply with their rules:
 https://docs.eigenlayer.xyz/eigenlayer/operator-guides/operator-installation#operator-configuration-and-registration
 (specific regex for name and description, as well as less than 4KB total file size)
